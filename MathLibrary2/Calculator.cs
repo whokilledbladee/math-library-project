@@ -21,6 +21,7 @@ namespace MathLibrary2
             return a / b;
         }
 
+        // Оптимизированный IsPrime
         public static bool IsPrime(int number)
         {
             if (number < 2) return false;
