@@ -4,6 +4,12 @@ namespace MathLibrary2
 {
     public class Calculator
     {
+        /// <summary>
+        /// Вычисляет факториал неотрицательного целого числа.
+        /// </summary>
+        /// аааааааааааа
+        /// привет
+        /// коммент для коммита
         public static double Add(double a, double b) => a + b;
         public static double Subtract(double a, double b) => a - b;
         public static double Multiply(double a, double b) => a * b;
