@@ -1,0 +1,46 @@
+## Ignore Visual Studio temporary files, build results, etc.
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.exp
+*.lib
+*.log
+*.tlog
+*.tmp
+*.tmp_proj
+*.pidb
+*.sdf
+*.ipch
+*.vscode
+*.cr
+*.profiles
+*.docstates
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.csproj.user
+*.dbmdl
+*.jfm
+*.swp
+*~
+*.orig
+# Package files
+*.nupkg
+# NuGet Packages
+packages/
+# Project-specific
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
